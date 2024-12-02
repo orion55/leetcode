@@ -36,5 +36,6 @@ root.left.left = new TreeNode(11, new TreeNode(7), new TreeNode(2));
 root.right.left = new TreeNode(13);
 root.right.right = new TreeNode(4, null, new TreeNode(1));
 
+// @ts-ignore
 const targetSum = 22;
 console.log(hasPathSum(root, targetSum)); // Output: true

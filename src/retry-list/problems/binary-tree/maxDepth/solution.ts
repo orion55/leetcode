@@ -1,4 +1,5 @@
 // Definition for a binary tree node.
+// @ts-ignore
 class TreeNode {
   val: number;
   left: TreeNode | null;
