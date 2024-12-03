@@ -7,8 +7,7 @@
   "private": false,
   "scripts": {
     "lint": "eslint src/**/*.ts --fix",
-    "start": "nodemon --watch \"*.ts\" --exec \"node -r ts-node/register --env-file=.env\" ./src/index.ts",
-    "start01": "nodemon --watch \"*.ts\" --exec \"node -r ts-node/register --env-file=.env\" ./src/retry-list/problems/binary-tree/pathSum3/solution01.ts"
+    "start": "nodemon --watch \"*.ts\" --exec \"node -r ts-node/register --env-file=.env\" ./src/retry-list/array/subarraySum/solution.ts"
   },
   "devDependencies": {
     "@types/node": "20.11.25",
