@@ -11,7 +11,6 @@ function subarraySum(nums: number[], k: number): number {
     }
     sumMap.set(sum, (sumMap.get(sum) || 0) + 1);
   }
-  console.log({ sumMap });
   return count;
 }
 
