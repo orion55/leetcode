@@ -2,12 +2,12 @@ import * as fs from 'fs';
 import * as path from 'path';
 
 // Константы для пути и имён файлов
-const BASE_PATH = './retry-list';
+const BASE_PATH = './';
 const FILE_NAMES = ['description.md', 'solution.ts'];
 
 // Переменные
 const category: string = 'array';
-const folderName: string = 'searchRange';
+const folderName: string = 'searchRange11';
 
 /**
  * Создаёт папку и пустые файлы в указанном пути.

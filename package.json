@@ -7,7 +7,7 @@
   "private": false,
   "scripts": {
     "lint": "eslint src/**/*.ts --fix",
-    "start": "nodemon --watch \"*.ts\" --exec \"node -r ts-node/register --env-file=.env\" ./src/retry-list/linked-list/addTwoNumbers/solution.ts"
+    "start": "nodemon --watch \\\"*.ts\\\" --exec \\\"node -r ts-node/register --env-file=.env\\\" src/linked-list/addTwoNumbers/solution.ts"
   },
   "devDependencies": {
     "@types/node": "20.11.25",
