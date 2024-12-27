@@ -24,5 +24,6 @@ function peakIndexInMountainArray(arr: number[]): number {
 }
 
 // Пример использования
+// @ts-ignore
 const arr = [0, 2, 1, 0];
 console.log(peakIndexInMountainArray(arr)); // Вывод: 1
