@@ -33,6 +33,7 @@ function findRepeatedAndMissing(nums: number[]): [number, number] {
 // Пример использования:
 // @ts-ignore
 const nums = [3, 1, 2, 5, 3];
+// @ts-ignore
 const result = findRepeatedAndMissing(nums);
 console.log(`Повторяющееся: ${result[0]}, Пропущенное: ${result[1]}`);
 // Результат: Повторяющееся: 3, Пропущенное: 4

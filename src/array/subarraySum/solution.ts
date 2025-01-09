@@ -19,6 +19,8 @@ function subarraySum(nums: number[], k: number): number {
 const k = 3;
 console.log(subarraySum(nums, k)); // Вывод: 2*/
 
+// @ts-ignore
 const nums = [3, 4, 7, -2, 2, 1];
+// @ts-ignore
 const k = 7;
 console.log(subarraySum(nums, k));

@@ -6,8 +6,8 @@ const BASE_PATH = './';
 const FILE_NAMES = ['description.md', 'solution.ts'];
 
 // Переменные
-const category: string = 'array';
-const folderName: string = 'validPalindrome';
+const category: string = 'misc';
+const folderName: string = 'peopleCounterTimer';
 
 /**
  * Создаёт папку и пустые файлы в указанном пути.

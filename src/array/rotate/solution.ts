@@ -20,10 +20,12 @@ function rotateArray(nums: number[], k: number): void {
 }
 
 // Пример использования:
+// @ts-ignore
 const nums1 = [1, 2, 3, 4, 5, 6, 7];
 rotateArray(nums1, 3);
 console.log(nums1); // Вывод: [5, 6, 7, 1, 2, 3, 4]
 
+// @ts-ignore
 const nums2 = [-1, -100, 3, 99];
 rotateArray(nums2, 2);
 console.log(nums2); // Вывод: [3, 99, -1, -100]

@@ -51,5 +51,6 @@ function search(nums: number[], target: number): number {
 // Example usage
 // @ts-ignore
 const nums = [4, 5, 6, 7, 0, 1, 2];
+// @ts-ignore
 const target = 0;
 console.log(search(nums, target)); // Output: 4

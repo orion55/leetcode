@@ -1,3 +1,3 @@
-import solution from './misc/compare';
+import solution from './misc/misc/compare';
 
 solution();

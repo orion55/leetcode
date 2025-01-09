@@ -23,7 +23,8 @@
     "resolveJsonModule": true,
     "baseUrl": ".",
     "forceConsistentCasingInFileNames": true,
-    "strict": true,
+    "noEmitOnError": false,
+    "isolatedModules": true
   },
   "exclude": ["node_modules"],
   "include": ["./src/**/*.ts"]
