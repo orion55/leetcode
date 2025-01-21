@@ -34,6 +34,7 @@ function levelOrder(root: TreeNode | null): number[][] {
   return result;
 }
 
+// @ts-ignore
 const root = new TreeNode(1);
 root.left = new TreeNode(2);
 root.right = new TreeNode(3);

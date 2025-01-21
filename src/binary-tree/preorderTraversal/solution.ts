@@ -25,5 +25,6 @@ function preorderTraversal(root: TreeNode | null): number[] {
   return result;
 }
 
+// @ts-ignore
 const tree = new TreeNode(1, null, new TreeNode(2, new TreeNode(3), null));
 console.log(preorderTraversal(tree)); // Output: [1, 2, 3]
