@@ -28,5 +28,6 @@ console.log(sortedSquares(nums1)); // [1, 4, 9, 16, 25]
 const nums2 = [-5, -4, -3, -2, -1];
 console.log(sortedSquares(nums2)); // [1, 4, 9, 16, 25]
 
+// @ts-ignore
 const nums3 = [-7, -3, -1, 2, 3, 5];
 console.log(sortedSquares(nums3)); // [1, 4, 9, 9, 25, 49]
