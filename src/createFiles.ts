@@ -6,8 +6,8 @@ const BASE_PATH = './';
 const FILE_NAMES = ['description.md', 'solution.ts'];
 
 // Переменные
-const category: string = 'misc';
-const folderName: string = 'isThree';
+const category: string = 'graphs';
+const folderName: string = 'shortestPathBinaryMatrix';
 
 /**
  * Создаёт папку и пустые файлы в указанном пути.
