@@ -3,11 +3,11 @@ import * as path from 'path';
 
 // Константы для пути и имён файлов
 const BASE_PATH = './';
-const FILE_NAMES = ['description.md', 'solution.ts'];
+const FILE_NAMES = ['description.md', 'solution.js'];
 
 // Переменные
-const category: string = 'graphs';
-const folderName: string = 'shortestPathBinaryMatrix';
+const category: string = 'hash-table';
+const folderName: string = 'postsData';
 
 /**
  * Создаёт папку и пустые файлы в указанном пути.
