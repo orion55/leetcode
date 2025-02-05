@@ -6,8 +6,8 @@ const BASE_PATH = './';
 const FILE_NAMES = ['description.md', 'solution.ts'];
 
 // Переменные
-const category: string = 'backtracking';
-const folderName: string = 'combinationSum';
+const category: string = 'array';
+const folderName: string = 'compress';
 
 /**
  * Создаёт папку и пустые файлы в указанном пути.
