@@ -7,7 +7,7 @@ const FILE_NAMES = ['description.md', 'solution.ts'];
 
 // Переменные
 const category: string = 'array';
-const folderName: string = 'compress';
+const folderName: string = 'maxSlidingWindow';
 
 /**
  * Создаёт папку и пустые файлы в указанном пути.
