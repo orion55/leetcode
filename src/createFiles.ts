@@ -6,8 +6,8 @@ const BASE_PATH = './';
 const FILE_NAMES = ['description.md', 'solution.ts'];
 
 // Переменные
-const category: string = 'array';
-const folderName: string = 'maxSlidingWindow';
+const category: string = 'graphs';
+const folderName: string = 'getOrderedCards';
 
 /**
  * Создаёт папку и пустые файлы в указанном пути.
