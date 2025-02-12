@@ -1,6 +1,6 @@
 import { describe, expect, test } from '@jest/globals';
 
-import { nearestNumber } from './solution';
+import { nearestNumber } from './solution01';
 
 describe('Test nearestNumber program', () => {
   test('Test with 3 synonym pairs', () => {

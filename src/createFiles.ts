@@ -6,8 +6,8 @@ const BASE_PATH = './';
 const FILE_NAMES = ['description.md', 'solution.ts'];
 
 // Переменные
-const category: string = 'binary-search';
-const folderName: string = 'nearest-number';
+const category: string = 'hash-table';
+const folderName: string = 'polyglots';
 
 /**
  * Создаёт папку и пустые файлы в указанном пути.
