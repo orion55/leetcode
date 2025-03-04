@@ -7,7 +7,7 @@ const FILE_NAMES = ['description.md', 'solution.ts'];
 
 // Переменные
 const category: string = 'hash-table';
-const folderName: string = 'polyglots';
+const folderName: string = 'findDuplicate';
 
 /**
  * Создаёт папку и пустые файлы в указанном пути.
