@@ -6,8 +6,8 @@ const BASE_PATH = './';
 const FILE_NAMES = ['description.md', 'solution.ts'];
 
 // Переменные
-const category: string = 'hash-table';
-const folderName: string = 'findDuplicate';
+const category: string = 'array';
+const folderName: string = 'minSubArrayLen';
 
 /**
  * Создаёт папку и пустые файлы в указанном пути.
