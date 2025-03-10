@@ -1,13 +1,12 @@
 import * as fs from 'fs';
 import * as path from 'path';
 
-// Константы для пути и имён файлов
-const BASE_PATH = './';
+const BASE_PATH = __dirname;
 const FILE_NAMES = ['description.md', 'solution.ts'];
 
 // Переменные
 const category: string = 'array';
-const folderName: string = 'minSubArrayLen';
+const folderName: string = 'totalFruit';
 
 /**
  * Создаёт папку и пустые файлы в указанном пути.
