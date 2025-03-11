@@ -5,8 +5,8 @@ const BASE_PATH = __dirname;
 const FILE_NAMES = ['description.md', 'solution.ts'];
 
 // Переменные
-const category: string = 'array';
-const folderName: string = 'totalFruit';
+const category: string = 'hash-table';
+const folderName: string = 'lruСache01';
 
 /**
  * Создаёт папку и пустые файлы в указанном пути.

@@ -1,3 +1,4 @@
+// @ts-ignore
 class LRUCache {
   private cache: Map<number, number>;
   private capacity: number;
@@ -26,7 +27,7 @@ class LRUCache {
     this.cache.set(key, value);
   }
 }
-
+// @ts-ignore
 const cache = new LRUCache(2);
 cache.put(1, 1); // кэш = {1=1}
 cache.put(2, 2); // кэш = {1=1, 2=2}
