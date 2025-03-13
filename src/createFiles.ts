@@ -5,8 +5,8 @@ const BASE_PATH = __dirname;
 const FILE_NAMES = ['description.md', 'solution.ts'];
 
 // Переменные
-const category: string = 'array';
-const folderName: string = 'insert';
+const category: string = 'binary-tree';
+const folderName: string = 'suggestedProducts';
 
 /**
  * Создаёт папку и пустые файлы в указанном пути.
