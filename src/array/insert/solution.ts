@@ -1,3 +1,4 @@
+// @ts-ignore
 function insert(intervals: number[][], newInterval: number[]): number[][] {
   const result: number[][] = [];
   let i = 0;
