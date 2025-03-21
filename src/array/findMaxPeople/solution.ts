@@ -34,6 +34,7 @@ function findMaxPeople(intervals: string[][]): number {
 }
 
 // Пример использования
+// @ts-ignore
 const intervals = [
   ['9:11', '10:12'],
   ['10:01', '11:13'],

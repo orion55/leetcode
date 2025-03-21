@@ -1,7 +1,12 @@
-#268. Missing Number
+# 268. Missing Number
 https://leetcode.com/problems/missing-number/description/
 
 Given an array nums containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array.
+
+# 268. Пропущенное число
+https://leetcode.com/problems/missing-number/description/
+
+При наличии массива nums, содержащего n различных чисел в диапазоне [0, n], верните единственное число в диапазоне, которое отсутствует в массиве.
 
 ```
 Example 1:

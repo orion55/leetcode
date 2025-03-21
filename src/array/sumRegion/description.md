@@ -11,6 +11,21 @@ Implement the NumMatrix class:
     int sumRegion(int row1, int col1, int row2, int col2) Returns the sum of the elements of matrix inside the rectangle defined by its upper left corner (row1, col1) and lower right corner (row2, col2).
 
 You must design an algorithm where sumRegion works on O(1) time complexity.
+
+# 304. Запрос суммы диапазона 2D - неизменяемый
+https://leetcode.com/problems/range-sum-query-2d-immutable/description/
+
+При наличии 2D-матрицы matrix обработайте несколько запросов следующего типа:
+
+    Вычислите сумму элементов матрицы внутри прямоугольника, определяемого его верхним левым углом (row1, col1) и нижним правым углом (row2, col2).
+
+Реализуйте класс Num Matrix:
+
+    NumMatrix(int[][] матрица). Инициализирует объект с помощью целочисленной матрицы matrix.
+    int sumRegion(int row1, int col1, int row2, int col2) Возвращает сумму элементов матрицы внутри прямоугольника, определяемую его верхним левым углом (row1, col1) и нижним правым углом (row2, col2).
+
+Вы должны разработать алгоритм, в котором подобласть работает с O(1) временной сложностью.
+
 ```
 Example 1:
 Input

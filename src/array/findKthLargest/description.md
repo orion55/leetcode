@@ -4,6 +4,12 @@ Given an integer array nums and an integer k, return the kth largest element in 
 Note that it is the kth largest element in the sorted order, not the kth distinct element.
 Can you solve it without sorting?
 
+# 215. K-й по величине элемент в массиве
+
+Учитывая целочисленный массив nums и целое число k, верните k-й по величине элемент в массиве.
+Обратите внимание, что это k-й по величине элемент в отсортированном порядке, а не k-й отдельный элемент.
+Можете ли вы решить эту проблему без сортировки?
+
 ```
 Example 1:
 Input: nums = [3,2,1,5,6,4], k = 2

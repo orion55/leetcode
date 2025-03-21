@@ -5,6 +5,13 @@ substring of s such that every character in t (including duplicates) is included
 
 The testcases will be generated such that the answer is unique.
 
+# 76. Минимальная подстрока окна
+
+Учитывая две строки s и t длиной m и n соответственно, верните минимальную
+подстроку окна s таким образом, чтобы каждый символ в t (включая дубликаты) был включен в окно. Если такой подстроки нет, верните пустую строку "".
+
+Тестовые примеры будут сгенерированы таким образом, чтобы ответ был уникальным.
+
 ```
 Example 1:
 Input: s = "ADOBECODEBANC", t = "ABC"

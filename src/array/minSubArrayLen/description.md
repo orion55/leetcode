@@ -2,6 +2,11 @@
 
 Given an array of positive integers nums and a positive integer target, return the minimal length of a subarray whose sum is greater than or equal to target. If there is no such subarray, return 0 instead.
 
+# 209. Сумма подмассивов минимального размера
+
+При наличии массива натуральных чисел nums и целевого значения с положительным значением, возвращает минимальную длину подмассива, сумма которого больше или равна целевому значению. Если такого подмассива нет, верните вместо него значение 0.
+
+
 ```
 Example 1:
 Input: target = 7, nums = [2,3,1,2,4,3]

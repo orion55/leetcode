@@ -2,6 +2,10 @@
 Given an array of integers nums, sort the array in ascending order and return it.
 You must solve the problem without using any built-in functions in O(nlog(n)) time complexity and with the smallest space complexity possible.
 
+# 912. Отсортируйте массив
+При наличии массива целых чисел nums отсортируйте массив в порядке возрастания и верните его.
+Вы должны решить задачу без использования каких-либо встроенных функций за O(nlog(n)) времени и с наименьшей возможной пространственной сложностью.
+
 ```
 Example 1:
 

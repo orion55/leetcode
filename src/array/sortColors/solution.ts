@@ -1,3 +1,4 @@
+// @ts-ignore
 function sortColors(nums: number[]): void {
   const redValues = nums.filter((num) => num === 0);
   const whiteValues = nums.filter((num) => num === 1);

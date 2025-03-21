@@ -2,6 +2,10 @@
 
 Given a string s, find the length of the longest substring without repeating characters.
 
+# 3. Самая длинная подстрока без повторяющихся символов
+
+Для заданной строки s найдите длину самой длинной подстроки без повторяющихся символов.
+
 ```
 Example 1:
 Input: s = "abcabcbb"

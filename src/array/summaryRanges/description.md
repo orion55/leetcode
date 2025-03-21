@@ -1,4 +1,4 @@
-228. Summary Ranges
+# 228. Summary Ranges
 
 You are given a sorted unique integer array nums.
 
@@ -7,10 +7,24 @@ A range [a,b] is the set of all integers from a to b (inclusive).
 Return the smallest sorted list of ranges that cover all the numbers in the array exactly. That is, each element of nums is covered by exactly one of the ranges, and there is no integer x such that x is in one of the ranges but not in nums.
 
 Each range [a,b] in the list should be output as:
-
+```
     "a->b" if a != b
     "a" if a == b
+```
 
+# 228. Сводные диапазоны
+
+Вам предоставлен отсортированный уникальный целочисленный массив nums.
+
+Диапазон [a,b] - это набор всех целых чисел от a до b (включительно).
+
+Возвращает наименьший отсортированный список диапазонов, который точно охватывает все числа в массиве. То есть, каждый элемент nums попадает точно в один из диапазонов, и нет такого целого числа x, чтобы x находилось в одном из диапазонов, но не в nums.
+
+Каждый диапазон [a,b] в списке должен быть выведен в виде:
+```
+    "a->b", если a != b
+    "a", если a == b
+```
 
 ```
 Example 1:

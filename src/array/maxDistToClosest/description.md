@@ -5,6 +5,13 @@ There is at least one empty seat, and at least one person sitting.
 Alex wants to sit in the seat such that the distance between him and the closest person to him is maximized.
 Return that maximum distance to the closest person.
 
+# 849. Увеличьте дистанцию до самого близкого человека
+
+Вам предоставлен массив, представляющий ряд сидений, где seats[i] = 1 означает человека, сидящего на i-м месте, а seats[i] = 0 означает, что i-е место пусто (индексировано по 0).
+Есть, по крайней мере, одно свободное место, и, по крайней мере, один человек сидит.
+Алекс хочет сесть на такое место, чтобы расстояние между ним и ближайшим к нему человеком было максимальным.
+Верните это максимальное расстояние ближайшему человеку.
+
 ```
 Example 1:
 Input: seats = [1,0,0,0,1,0,1]

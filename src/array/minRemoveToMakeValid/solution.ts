@@ -34,6 +34,7 @@ function minRemoveToMakeValid(s: string): string {
 }
 
 // Пример использования
+// @ts-ignore
 const input = 'lee(t(c)o)de)';
 const output = minRemoveToMakeValid(input);
 console.log(output); // Ожидаемый результат: "lee(t(c)o)de"

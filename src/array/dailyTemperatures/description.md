@@ -2,6 +2,11 @@
   
 Given an array of integers temperatures represents the daily temperatures, return an array answer such that answer[i] is the number of days you have to wait after the ith day to get a warmer temperature. If there is no future day for which this is possible, keep answer[i] == 0 instead.
 
+# 739. Дневные температуры
+
+Учитывая, что массив целых чисел temperatures представляет дневные температуры, верните массив answer таким образом, чтобы ответ [i] был количеством дней, которые вам нужно подождать после i-го дня, чтобы температура повысилась. Если в будущем не будет дня, для которого это возможно, оставьте вместо этого значение answer[i] == 0.
+
+
 ```
 Example 1:
 Input: temperatures = [73,74,75,71,69,72,76,73]

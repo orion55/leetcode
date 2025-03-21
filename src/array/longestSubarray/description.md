@@ -3,6 +3,10 @@ Given a binary array nums, you should delete one element from it.
 
 Return the size of the longest non-empty subarray containing only 1's in the resulting array. Return 0 if there is no such subarray.
 
+# 1493. Самый длинный подмассив из 1 После удаления одного элемента
+Учитывая двоичный массив nums, вы должны удалить из него один элемент.
+
+Возвращает размер самого длинного непустого подмассива, содержащего только 1, в результирующем массиве. Верните 0, если такого подмассива нет.
 ```
 Example 1:
 Input: nums = [1,1,0,1]

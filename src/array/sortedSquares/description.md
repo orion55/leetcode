@@ -1,6 +1,8 @@
 # 977. Squares of a Sorted Array
 Given an integer array nums sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order.
 
+# 977. Квадраты отсортированного массива
+При заданном целочисленном массиве чисел, отсортированных в порядке неубывания, возвращает массив квадратов каждого числа, отсортированных в порядке неубывания.
 ```
 Example 1:
 
