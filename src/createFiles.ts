@@ -2,11 +2,11 @@ import * as fs from 'fs';
 import * as path from 'path';
 
 const BASE_PATH = __dirname;
-const FILE_NAMES = ['description.md', 'solution.ts'];
+const FILE_NAMES = ['description.md', 'solution.js'];
 
 // Переменные
-const category: string = 'backtracking';
-const folderName: string = 'combine';
+const category: string = 'misc';
+const folderName: string = 'interview';
 
 /**
  * Создаёт папку и пустые файлы в указанном пути.
