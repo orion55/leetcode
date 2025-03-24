@@ -10,3 +10,8 @@ changeStuff(num, obj1);
 
 console.log(num);
 console.log(obj1.item);
+
+/*
+20
+NaN
+ */

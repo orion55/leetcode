@@ -34,8 +34,10 @@ async function runTasks() {
 runTasks();
 
 /*
-'task1 start'
-'task2 start'
-'task2 done'
-'task1 done'
+task1 start
+task1 done
+task3 start
+task3 done
+task2 start
+task2 done
  */

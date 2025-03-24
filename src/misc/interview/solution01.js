@@ -8,3 +8,8 @@ const shape = {
 
 console.log(shape.diameter());
 console.log(shape.perimeter());
+
+/*
+10
+20
+ */
