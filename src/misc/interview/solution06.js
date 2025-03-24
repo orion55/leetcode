@@ -24,7 +24,7 @@ class Bar extends Foo {
 new Bar();
 
 /*
-	'foo foo'
-	'bar bar'
-	'bar foo'
+bar foo
+bar bar
+foo bar
  */

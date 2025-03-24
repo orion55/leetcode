@@ -18,7 +18,7 @@ console.log(addFunction(10));
 
 /*
 [10]=>20
-`Calculated 20`
-`Calculated 20`
-`Calculated 20`
+Calculated 20
+From cache! 20
+From cache! 20
  */
