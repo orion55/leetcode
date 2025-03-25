@@ -1,3 +1,4 @@
+// @ts-ignore
 function removeElement(nums: number[], val: number): number {
   let i = 0; // указатель для новой позиции
   for (let j = 0; j < nums.length; j++) {

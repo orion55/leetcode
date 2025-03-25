@@ -1,3 +1,4 @@
+// @ts-ignore
 function lengthOfLongestSubstring(s: string): number {
   const map = new Map<string, number>(); // Для хранения индексов символов
   let left = 0; // Указатель на начало окна

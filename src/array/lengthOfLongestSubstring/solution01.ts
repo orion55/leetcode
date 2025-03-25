@@ -1,3 +1,4 @@
+// @ts-ignore
 function lengthOfLongestSubstring(s: string): number {
   const set = new Set<string>(); // Для хранения символов в текущем окне
   let left = 0; // Левый указатель

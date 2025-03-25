@@ -37,6 +37,7 @@ function maxAreaOfIsland(grid: number[][]): number {
 }
 
 // Примеры
+// @ts-ignore
 const testCases = [
   {
     grid: [

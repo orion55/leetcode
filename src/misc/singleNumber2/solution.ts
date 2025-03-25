@@ -1,3 +1,4 @@
+// @ts-ignore
 function singleNumber(nums: number[]): number {
   let ones = 0; // Числа, которые встречаются один раз
   let twos = 0; // Числа, которые встречаются два раза
